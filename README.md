@@ -58,7 +58,7 @@ The dashboard provides a clear business overview, helping in informed decision-m
 
 ## 🛠️ How to Use
 
-1. Project the repository:
+1. Project Repository:
    **https://github.com/Rekhakasthuri/EXCEL-PROJECT**
 
 
