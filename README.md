@@ -15,7 +15,7 @@ The dashboard provides a clear business overview, helping in informed decision-m
 
 > Replace this path with your GitHub image link after uploading the screenshot.
 
-![Dashboard Screenshot](/mnt/data/Screenshot 2025-11-24 101801.png)
+![Dashboard Screenshot](./Screenshot 2025-11-24 101801.png)
 
 ---
 
