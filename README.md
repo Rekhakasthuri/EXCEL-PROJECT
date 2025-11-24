@@ -14,7 +14,7 @@ The dashboard provides a clear business overview, helping in informed decision-m
 ## 🖼️ Dashboard Screenshot
 
 
-![Dashboard Screenshot](/mnt/data/Screenshot 2025-11-24 101801.png)
+![Dashboard Screenshot](https://github.com/Rekhakasthuri/EXCEL-PROJECT/blob/main/Screenshot%202025-11-24%20101801.png)
 
 ---
 
