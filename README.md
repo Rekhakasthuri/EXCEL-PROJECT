@@ -58,8 +58,7 @@ The dashboard provides a clear business overview, helping in informed decision-m
 
 ## 🛠️ How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rekhakasthuri/EXCEL-PROJECT.git
+1. Project the repository:
+   **https://github.com/Rekhakasthuri/EXCEL-PROJECT**
 
 
