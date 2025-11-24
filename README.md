@@ -18,16 +18,6 @@ The dashboard provides a clear business overview, helping in informed decision-m
 
 ---
 
-## 📁 Project Structure
-
-| File | Description |
-|------|-------------|
-| `Dashboard.xlsx` | Final dashboard with charts, KPIs & slicers |
-| `Dataset.xlsx` | Raw dataset used for analysis |
-| `Analysis.xlsx` | Pivot tables and calculations used for dashboard |
-
----
-
 ## 🔧 Excel Features Used
 
 ### ✅ Data Cleaning
